@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Research Projects
 ---
+**Current Research Projects**
 
-![alt text]("/images/Fahlbusch_BlueWhaleFTLE.gif")
+<img src="images/Fahlbusch_BlueWhaleFTLE.gif" style="width:40%; border:1px solid; margin-right: 20px" align="left">
