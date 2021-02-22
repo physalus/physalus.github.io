@@ -1,6 +1,7 @@
-
-**Peer-Reviewed Publications**
-
+---
+layout: page
+title: Peer-Reviewed Publications
+---
 11. D. Cade, S. Mduduzi Seakamela K. Findlay, J. Fukunaga, S. Kahane‐Rapport, J. Warren, J. Calambokidis, J. Fahlbusch, A. Friedlaender, E. Hazen, D. Kotze, S. McCue, M. Meÿer, W. Oestreich, M. Oudejans, C. Wilke, J. Goldbogen (2021) Predator‐scale spatial analysis of intra‐patch prey distribution reveals the energetic drivers of rorqual whale super‐group formation. Functional Ecology 
 
 10. E. Pirotta, C. Booth, D. Cade, J. Calambokidis, D. Costa, J. Fahlbusch, A. Friedlaender, J.
