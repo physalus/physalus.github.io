@@ -8,7 +8,7 @@ layout: page
 
 10. E. Pirotta, C. Booth, D. Cade, J. Calambokidis, D. Costa, **J. Fahlbusch**, A. Friedlaender, J. Goldbogen, J. Harwood, E. Hazen, L. New, B. Southall (2021) Context-dependent variability in the predicted daily energetic costs of disturbance for blue whales. *Conservation Physiology*
 
-9. W. Oestreich, **J. Fahlbusch**, D. Cade, J. Calambokidis, T. Margolina, J. Joseph, A. Friedlaender, M. McKenna, A. Stimpert, B. Southall, J. Goldbogen, J. Ryan (2020) Animal-Borne Metrics Enable Acoustic Detection of Blue Whale Migration. *Current Biology*
+9. W. Oestreich, **J. Fahlbusch**, D. Cade, J. Calambokidis, T. Margolina, J. Joseph, A. Friedlaender, M. McKenna, A. Stimpert, B. Southall, J. Goldbogen, J. Ryan (2020) Animal-Borne Metrics Enable Acoustic Detection of Blue Whale Migration. *Current Biology* [PDF](https://physalus.github.io/files/pubs/Oestreich%20et%20al.%20-%202020%20-%20Animal-Borne%20Metrics%20Enable%20Acoustic%20Detection%20of%20Blue%20Whale%20Migration.pdf)
 
 8. K. Harrington, **J. Fahlbusch**, R. Langrock, J. Therrien, J. Houtz, B. McDonald (2020) Seasonal activity levels of a farm-island population of striated caracaras (Phalcoboenus australis) in the Falkland Islands. *Animal Biotelemetry*
 
