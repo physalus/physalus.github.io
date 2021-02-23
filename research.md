@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
 ---
+
 ### Current Research Projects
 
 #### Identifying Intermediate-Scale Habitat Structure (Ecotones) Using Animal-Borne Tags and Remote Sensing Platforms 
