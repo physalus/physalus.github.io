@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-<!DOCTYPE html>
-
 <html>
 
 <head>
@@ -134,9 +132,10 @@ body {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><img src="https://physalus.github.io/images/20160728_090723.jpg" alt="JAF" style="width:40%; border:1px solid; margin-right: 20px" align="left"></p>
+
 <div id="section" class="section level1">
 <h1></h1>
+<p><img src="https://physalus.github.io/images/20160728_090723.jpg" alt="JAF" style="width:40%; border:1px solid; margin-right: 20px" align="left"></p>
 <p> To sustain their large body size, blue whales rely on consuming substantial quantities of small-bodied prey. Their primary prey (i.e., krill), however, is unevenly distributed in the environment and is often aggregated into dynamic, ephemeral patches. How these patches form, how long they persist, and the sensory modalities and environmental cues blue whales use to locate them remains less understood.  My research focuses on leveraging novel technologies at the intersection of oceanography, biology and computer science to better understand how these animals have adapted to their environment and their resilience to a changing world. </p>
 <p> </p>
 <p> </p>
