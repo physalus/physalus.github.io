@@ -136,7 +136,7 @@ body {
 <div id="section" class="section level1">
 <h1></h1>
 <p><img src="https://physalus.github.io/images/20160728_090723.jpg" alt="JAF" style="width:40%; border:1px solid; margin-right: 20px" align="left"></p>
-<p> I am a PhD Candidate in the Goldbogen Lab at <a href="https://hopkinsmarinestation.stanford.edu/">Hopkins Marine Station of Stanford University</a>. My research focuses on leveraging novel technologies at the intersection of oceanography, biology and computer science to better understand how marine predators have adapted to their environment and their resilience to a changing world. </p>
+<p> I am a Research Biologist at <a href="https://www.cascadiaresearch.org/">Cascadia Research Collective</a>. My research focuses on leveraging novel technologies at the intersection of oceanography, biology and computer science to better understand how marine predators have adapted to their environment and their resilience to a changing world. </p>
 <p> </p>
 <p> </p>
 <p> </p>
