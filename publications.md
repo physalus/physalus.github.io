@@ -8,13 +8,13 @@ layout: page
 
 25. B. Southall, J. Durban, J. Calambokidis, C. Casey, **J. Fahlbusch**, H. Fearnbach, ... F. Visser (2024) Behavioural responses of common dolphins to naval sonar. *R. Soc. Open Sci.*
 
-24. **J. Fahlbusch**, D. Cade, E. Hazen, M. Elliott, B. Saenz, J. Goldbogen, J. Jahncke (2024) Submesoscale coupling of krill and whales revealed by aggregative Lagrangian coherent structures. *Proc. R. Soc. B* [PDF](https://physalus.github.io/files/pubs/Fahlbusch%20et%20al.%20-%202024%20-%20Submesoscale%20coupling%20of%20krill%20and%20whales%20revealed%20by%20aggregative%20Lagrangian%20coherent%20structures)
+24. **J. Fahlbusch**, D. Cade, E. Hazen, M. Elliott, B. Saenz, J. Goldbogen, J. Jahncke (2024) Submesoscale coupling of krill and whales revealed by aggregative Lagrangian coherent structures. *Proc. R. Soc. B* [PDF](https://physalus.github.io/files/pubs/Fahlbusch%20et%20al.%20-%202024%20-%20Submesoscale%20coupling%20of%20krill%20and%20whales%20revealed%20by%20aggregative%20Lagrangian%20coherent%20structures.pdf)
 
 23. T. Markowitz, W. Keener, M. Webber, A. Payne, R. Lane, **J. Fahlbusch**, J. Calambokidis (2024) New urban habitat for endangered humpback whales: San Francisco Bay. *Aquat. Conserv. Mar. Freshw. Ecosyst.*
 
 22. S. Kahane-Rapport, M. Czapanskiy, **J. Fahlbusch**, A. Friedlaender, J. Calambokidis, E. Hazen, ... M. Savoca (2022) Field measurements reveal exposure risk to microplastic ingestion by filter-feeding megafauna. *Nat. Commun.*
 
-21. **J. Fahlbusch**, M. Czapanskiy, J. Calambokidis, D. Cade, B. Abrahms, E. Hazen, J. Goldbogen (2022) Blue whales increase feeding rates at fine-scale ocean features. *Proc. R. Soc. B* [PDF](https://physalus.github.io/files/pubs/Fahlbusch%20et%20al.%20-%202022%20-%20Blue%20whales%20increase%20feeding%20rates%20at%20fine-scale%20ocean%20features)
+21. **J. Fahlbusch**, M. Czapanskiy, J. Calambokidis, D. Cade, B. Abrahms, E. Hazen, J. Goldbogen (2022) Blue whales increase feeding rates at fine-scale ocean features. *Proc. R. Soc. B* [PDF](https://physalus.github.io/files/pubs/Fahlbusch%20et%20al.%20-%202022%20-%20Blue%20whales%20increase%20feeding%20rates%20at%20fine-scale%20ocean%20features.pdf)
 
 20. J. Ryan, K. Benoit-Bird, W. Oestreich, P. Leary, K. Smith, C. Waluk, D. Cade, **J. Fahlbusch**, ... J. Goldbogen (2022) Oceanic giants dance to atmospheric rhythms: Ephemeral wind-driven resource tracking by blue whales. *Ecol. Lett.*
 
